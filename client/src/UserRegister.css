@@ -1,0 +1,7 @@
+.Needzaio{
+    display:grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.Column{
+    columns:1;
+}
