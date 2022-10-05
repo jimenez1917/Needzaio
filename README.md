@@ -1,6 +1,8 @@
 # Needzaio
 Para usar ambas partes debes verificar en el cliente el puerto de escucha, este puerto debe ser el mismo en donde se haga la instancia del servidor.
 
+--  Para iniciar el lado del client "npm run dev"
+
 --- El registro se hace en totalidad, el codigo para lograr tener un flujo es el flujo de las ramas con sus respectivos IDs(FK,PK)
 
 
